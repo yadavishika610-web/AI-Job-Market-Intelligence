@@ -1,0 +1,14 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.DS_Store
+# Local datasets and generated outputs
+data/
+output/
+
+# Local backup
+app_backup.py
